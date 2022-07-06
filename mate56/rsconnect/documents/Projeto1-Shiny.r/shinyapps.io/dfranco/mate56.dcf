@@ -1,0 +1,14 @@
+name: mate56
+title: mate56
+username:
+account: dfranco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6559789
+bundleId: 6071590
+url: https://dfranco.shinyapps.io/mate56/
+when: 1657037364.9281
+lastSyncTime: 1657037364.9291
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
